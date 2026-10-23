@@ -1,0 +1,9 @@
+# local-tool-skill
+
+> Copy-ready agent skill (SKILL.md + templates) for building a "local tool": a single-purpose browser page where all processing stays on the user's device — no uploads, zero telemetry, bilingual, spec/data-driven. Works with Claude Code, Cursor, Codex and other agents. MIT license.
+
+- Repository: https://github.com/jammyfu/local-tool-skill
+- Skill: skills/local-tool/SKILL.md
+
+## Install
+Copy `skills/local-tool` into `~/.claude/skills/`, `~/.cursor/skills/` or a project's `.agents/skills/`, then ask the agent: "Build a local tool: <one sentence>. Follow the local-tool skill."

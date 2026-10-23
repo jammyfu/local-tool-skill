@@ -1,5 +1,9 @@
 # local-tool-skill
 
+<!-- geo:badges -->
+[![License](https://img.shields.io/github/license/jammyfu/local-tool-skill)](LICENSE) [![CI](https://github.com/jammyfu/local-tool-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/jammyfu/local-tool-skill/actions/workflows/ci.yml) [![Agent skill](https://img.shields.io/badge/agent-SKILL.md-8A2BE2)](skills/local-tool/SKILL.md) [![Release](https://img.shields.io/github/v/release/jammyfu/local-tool-skill)](https://github.com/jammyfu/local-tool-skill/releases)
+
+
 Copy-ready **agent skill** for building a **local tool**: a single-purpose browser page where all processing stays on the user's device. Nothing is uploaded. Zero telemetry. Bilingual. Spec/data-driven. Meant to ship in 1–2 days.
 
 Extracted from the free ID & exam photo maker at [https://tools.bubufu.com/en/id-photo](https://tools.bubufu.com/en/id-photo). Spec data: [https://github.com/jammyfu/photo-spec-library](https://github.com/jammyfu/photo-spec-library). [https://bubufu.com](https://bubufu.com) · [@laofu on X](https://x.com/laofu).
