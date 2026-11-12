@@ -1,5 +1,9 @@
 # local-tool-skill
 
+![Project concept banner](.github/assets/project-hero.png)
+
+<sub>AI-generated concept cover, not a product screenshot. See the real workflow/examples below.</sub>
+
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文（台灣）](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 Build one useful browser tool, not another account system. **local-tool** is an agent skill and TypeScript starter kit for on-device workflows such as ID-photo resizing, file-size compression and print-sheet export.

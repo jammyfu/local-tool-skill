@@ -1,5 +1,9 @@
 # local-tool-skill
 
+![專案概念主視覺](.github/assets/project-hero.png)
+
+<sub>AI 產生的概念主視覺，不是產品截圖；實際流程與範例請見下方。</sub>
+
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文（台灣）](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 做一個真正實用的瀏覽器小工具，而不是再做一套帳號系統。**local-tool** 是供 Agent 使用的 Skill 與 TypeScript 範本，適合證件照裁切、圖片壓縮、列印排版等裝置端處理流程。

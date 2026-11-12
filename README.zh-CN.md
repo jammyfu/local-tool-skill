@@ -1,5 +1,9 @@
 # local-tool-skill
 
+![项目概念头图](.github/assets/project-hero.png)
+
+<sub>AI 生成的概念头图，不是产品截图；真实流程与示例见下方。</sub>
+
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文（台灣）](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 做一个真正有用的浏览器小工具，而不是再做一套账号系统。**local-tool** 是面向 Agent 的 Skill 与 TypeScript 模板，适合证件照裁切、图片压缩、打印排版等本机处理流程。

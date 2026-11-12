@@ -1,5 +1,9 @@
 # local-tool-skill
 
+![プロジェクトのコンセプトバナー](.github/assets/project-hero.png)
+
+<sub>AI で生成したコンセプト画像です。製品画面ではありません。実際の手順・実例は下記をご覧ください。</sub>
+
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文（台灣）](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 アカウント管理ではなく、一つの作業を解決するブラウザーツールを作るために。**local-tool** は証明写真の加工、画像圧縮、印刷レイアウトなど、端末内処理を目指す Agent Skill と TypeScript テンプレートです。
