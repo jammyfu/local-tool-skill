@@ -1,9 +1,13 @@
 # local-tool-skill
 
-> Copy-ready agent skill (SKILL.md + templates) for building a "local tool": a single-purpose browser page where all processing stays on the user's device — no uploads, zero telemetry, bilingual, spec/data-driven. Works with Claude Code, Cursor, Codex and other agents. MIT license.
+> Agent skill and TypeScript helpers for single-purpose on-device browser tools. No-upload/no-telemetry is a design requirement to verify in generated applications, not a blanket audit guarantee.
 
-- Repository: https://github.com/jammyfu/local-tool-skill
-- Skill: skills/local-tool/SKILL.md
+## Project documentation
 
-## Install
-Copy `skills/local-tool` into `~/.claude/skills/`, `~/.cursor/skills/` or a project's `.agents/skills/`, then ask the agent: "Build a local tool: <one sentence>. Follow the local-tool skill."
+- [English](https://github.com/jammyfu/local-tool-skill/blob/main/README.md)
+- [简体中文](https://github.com/jammyfu/local-tool-skill/blob/main/README.zh-CN.md)
+- [繁體中文（台灣）](https://github.com/jammyfu/local-tool-skill/blob/main/README.zh-TW.md)
+- [日本語](https://github.com/jammyfu/local-tool-skill/blob/main/README.ja.md)
+- [한국어](https://github.com/jammyfu/local-tool-skill/blob/main/README.ko.md)
+
+This index is a convenience, not a promise of search ranking or AI indexing. Documentation translations do not imply application localization.
